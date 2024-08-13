@@ -8,9 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-this proyect is create with npm and no yarm
+- this proyect is create with npm and no yarm
 note 
-this project its cretae with vite
+
+- this project its cretae with vite
 
 ## what is its make
 create qr  and download, this proyect needs word string
