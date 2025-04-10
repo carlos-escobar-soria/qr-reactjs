@@ -17,7 +17,7 @@ note
 create qr  and download, this proyect needs word string
 
 ## afert download 
-npm install 
+ npm install 
 
 ## run project 
 npm run start 
